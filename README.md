@@ -41,6 +41,6 @@ FitGuide is a personalized workout recommendation system designed to adapt to yo
 Thank you to the following contributors for their work on this project:
 1. Dewi (https://github.com/dewiazizah968)
 2. Sheila (https://github.com/SheilaEdistya)
-3. Fatimah (https://github.com/(soon))
+3. Fatimah (https://github.com/FatimahAzzaroh28)
 
 We welcome contributions to improve FitGuide. Please feel free to fork the repository and submit a pull request.
